@@ -20,5 +20,5 @@ public class App {
     }
 }
 
-#mvn compile in pom.xml
-#mvn "exec:java" "-Dexec.mainClass=com.example.App"
+//mvn compile in pom.xml
+//mvn "exec:java" "-Dexec.mainClass=com.example.App"
